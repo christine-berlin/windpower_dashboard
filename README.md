@@ -4,7 +4,7 @@ This dashboard was developed as part of the capstone project about wind power pr
 
 To explore the dashboard go to the live version on Heroku: [Energy Output Forecast for the Next 24 Hours](https://windpower-forecast.herokuapp.com)
 
-For more information about the project visit the [project page on GitHub](https://github.com/JeromeSauer/Capstone_WindPowerPredicting).
+For more information about the project visit the [project page on GitHub](https://github.com/christine-berlin/Capstone_WindPowerPredicting).
 
 
 
